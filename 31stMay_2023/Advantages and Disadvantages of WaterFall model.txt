@@ -1,0 +1,12 @@
+Advantages of WaterFall model
+> Quality of the product will be very good
+> Since requirement changes are not allowed, the chances of finding bugs are less.
+> Initial investment is less since the testers are hired at later stages
+> Preferred for smaller projects when requirements are completely signed off and freezed.
+
+
+Disadvantages of Waterfall model
+> Requirement changes are not allowed. So tecnically there is no room for compartmentalization.
+> In the 1st stage there was a defect which could not be detected. 
+> If there is a problem, cost of fix is much higher
+> Testing can only start after coding is over.

@@ -1,0 +1,45 @@
+QA  vs   QC   vs   QE
+
+Quality Assurance
+
+Quality Control
+
+Quality Engineering
+---------------------------------------------
+
+Different Levels of Testing:-
+Unit Testing
+Integration Testing
+System Testing
+User Acceptance Testing
+
+---------------------------------------------------
+Unit Testing:-
+1. Unit Testing is also known as Component Testing or Module Testing
+2. Unit Testing is done by Developers and not by Testers
+3. A unit is nothing but a single component or module of a software
+4. Unit testing is conducted on a single program or a single module
+5. Unit Testing is a White Box testing technique
+
+Lot of techniques to do Unit Testing
+Basis Path Testing
+Control Structure Testing 
+     Conditional Coverage
+     Loops Coverage
+     Mutation Testing
+------------------------------------------------------
+
+Integration Testing: -
+1. Focuses on checking data communication between modules
+
+There are 2 types of integration testing
+i) Incremental Integration Testing
+ii) Non-incremental Integration Testing
+
+Incremental Integration Testing:
+Incrementally adding the modules and testing the data flow between the modules as well as testing how individually the modules are working after the integration.
+
+There are 2 approaches which are taken to achieve Incremental Integration Testing
+a> Top Down Approach
+
+b> Bottom Up approach

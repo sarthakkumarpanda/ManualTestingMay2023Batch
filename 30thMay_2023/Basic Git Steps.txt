@@ -1,0 +1,17 @@
+1. Create a Github Repo
+2. Your code/folder - create certain files
+3. Right click inside that folder and GitBash here
+4. git status
+5. git init
+6. git status
+7. git add -A
+8. git commit -m "firstcommit"
+9. git remote add origin git@github.com:sarthakkumarpanda/TeachRepo.git
+10. git push -u origin master
+11. Check your github.com and see that the code has been pushed
+12. Come back to one of your files in the laptop and do some modifications
+    and save it. Close that file.
+13. git status 
+14. git add .
+15. git commit -m "second commit"
+16. git push -u origin master

@@ -1,0 +1,31 @@
+Build Verification Testing[Smoke Testing]
+------------------------------------------
+Testing of the most important areas.
+If these areas are passing then only the build is eligible to go for in-depth testing
+
+launching of the application url should not throw any 400 or 500 series errors
+launching of the homepage or landingpage should happen within a stipulated amount of time
+all the buttons and important WebElements of the webpage should be where they are supposed to be as per the design document
+
+all the links and buttons and other important[business] areas of the webpage should be working as intended
+---------------------------------------------------
+
+Let's say Smoke Testing passes, now what ?? Sanity Testing
+
+Smoke Testing is done to make sure the build received from the dev tema is testworthy for the next level or not
+Sanity Testing is done during the release phase to check the most important, important functionalities of the application. Smoke testing is like a Subset of Sanity Testing
+
+Smoke Testing is done by both developers and Testers
+but
+Sanity Testing is only done by Testers
+
+Smoke testing, the build may be stable or unstable
+but
+in Sanity Testing, the build is relatively very stable
+
+Smoke Testing is part of basic testing
+but 
+Sanity Testing is part of in-depth regression Testing
+
+
+
