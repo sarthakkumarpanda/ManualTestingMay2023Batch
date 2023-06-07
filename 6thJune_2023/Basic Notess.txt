@@ -1,0 +1,46 @@
+Warning: No match for E-Mail Address and/or Password.
+
+Red color but let's say you found this in Green color
+
+You will raise a Defect. 
+
+Developer will acknowldge your defect
+
+He fixes it. He tells you - OK it is fixed. Kindly test again
+
+You will test it.... - This is re-testing
+------------------------------------------------------------------
+
+What is Regression Testing ?
+
+Sep 2, 2008 - version 1.0
+June 6, 2023 - version 114.0
+
+114.0 is absolutely new ??? when  compared with 1.0 ???
+
+1.0 + added some features = 1.1
+------------------------------------------------------------------
+
+Test Design Techniques:-
+to better our test cases
+reduce the number of test cases to be executed
+
+Technique types:-
+1. Equivalence Class Partitioning
+2. Boundary Value Analysis (BVA)
+3. Decision Table Testing
+4. State Transition
+5. Error Guessing 
+
+Partition of input data into various classes and we can select data acording the class and then test. 
+
+
+
+
+
+
+
+
+
+
+

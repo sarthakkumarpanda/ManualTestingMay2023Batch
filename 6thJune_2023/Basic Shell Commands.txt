@@ -1,0 +1,19 @@
+pwd     - present working directory
+mkdir   - make directory
+rmdir   - delete a directory
+ls      - list all files and directories
+ls -al  -
+ls -lart - 
+cd      - change directory
+.       - Alias of the current directory
+..      - Alias of the parent directory
+nano    - Edit file
+clear   - clear terminal or console
+Tab     - autocomplete command
+echo    - print to terminal
+man     - help on specific command
+touch   - create new file
+>       - write to the file
+>>      - append to the file
+cat     - list contents of the file
+rm      - remove files
