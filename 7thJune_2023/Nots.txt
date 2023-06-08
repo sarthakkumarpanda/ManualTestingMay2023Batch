@@ -1,0 +1,107 @@
+Use Case:-
+----------
+Use case describes the requirement
+Use case contains basically there items:-
+ 1. Actor - also known as the user(s) (can be a single person or group of people), interacting with a process
+ 2. Action - which is to read the final outcome
+ 3. Goal/Outcome - which is the successful user outcome
+
+Test Scenario:-
+----------------
+A possible area that is to be tested. (What to be Tested)
+
+Test Case:-
+-----------
+How to be Tested
+Step by Step action to be performed to validate functionality of how to test
+Contains Test Steps, Expected Result, Actual Result, etc
+-----------------------------------------------------------------------------------------------------
+
+https://tutorialsninja.com/demo
+
+Login Scenario
+TC1 - Verifying Login functionality with valid crdentials
+TC2 - Verifying Login with invalid email and valid password
+TC3 - Verifying Login with valid email and invalid password
+TC4 - Verifying Login with invalid credentials mulitple number of times
+TC5 - Verifying Login with no credentials or partial credentials
+
+Register Scenario
+TC1 - Verifying Registration with All Mandatory fields
+TC2 - Verifying Registration with All Fields
+TC3 - Verifying Registration without any field
+
+SearchProduct Scenario
+TC1 - Verifying Search functionality with valid product
+TC2 - Verifying Search functionality with invalid product
+TC3 - Verifying Search functionality with no product
+
+TestCase Document
+Test Condition and Expected Result
+
+git pull https://github.com/sarthakkumarpanda/ManualTestingMay2023Batch
+---------------------------------------------------------------------------------------------
+
+What is a TestCase ?
+Ans: Is a set of actions executed to validate particular feature or functionality of a software application
+
+----------------------------------------------------------------------------------------------------
+Requirement Traceability Matrix (RTM):-
+
+It describes the mapping of requirements with the test cases
+
+The main purpose of RTM is to see that all the test cases are covered so that no fucntionality is missing when we do software testing
+
+Requirement Traceability Matrix Template
+-Requirement ID
+-Requirement Description
+-Test CASE ID's
+
+--------------------------------------------------------------------
+Test Environment:-
+it is a platform specially build for the test case execution on the software product
+another name is TestBed
+
+Dev Evnironment
+QA/Test Env
+UAT Env
+Production Env
+------------------------------------------------------------------------
+Entry Criteria and Exit Criteria
+
+
+
+Test Execution:-
+----------------------------------------
+
+Defect:-
+
+what is a defect ?
+deviation from the Expected result
+
+Defect Management tools
+QC
+JIRA
+Bugzilla
+SilkCentral
+ClearQuest
+DevTrack
+-------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
