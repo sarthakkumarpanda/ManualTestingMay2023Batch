@@ -1,0 +1,64 @@
+Scrum Revision: -
+What is Scrum?
+Scrum is a framework in the Agile business model - it defines, plans, executes and delivers project. Scrum is an iterative process and it follows a time box.
+Scrum teams work in Sprints. Sprints are fixed time intervals where the time duration is decided by the team to complete a selected scope of work.
+
+Structure of a Scrum Team [Important Roles]?
+i. Product Owner - works with the customer/client to gather requirements and is responsible for creating user stories out of those requirements. Guides the team on what needs to be done and why it has to be done and how it has to be done Accountable for maintaining the product backlog
+ii. Scrum Master - Servant leader in the team who is responsible to make sure that Agile concepts are being followed. Helps in removing obstacles for the team. Facilitates all scrum ceremonies and guides the team with Agile and Scrum related principles. Also acts as communication medium between the Team and the Senior Management.
+iii. Team - developers and testers. Cross functional people who will do the work to get the project delivered on time.
+
+Product Backlog:-
+i. Prioritized list of user stories.
+ii. Managed by the Product Owner.
+iii. Removal of user stories can be done by the Product owner but ideas from the team is welcome and those ideas in form of user stories can be added but after review and approval from the Product owner.
+iv. Scrum Team discusses these work items(user stories) in the product backlog to estimate, specify and prioritize. This is known as Backlog Grooming.
+
+Sprint Backlog:-
+i. Separate list of user stories.
+ii. Kind of subset of Product Backlog
+iii. It is a selected scope for the upcoming project
+
+Scrum Ceremonies:-
+i. Sprint Planning - Before the sprint starts, a scope is decided in the meeting for the spring. This meeting finalizes the sprint backlog and sprint goals.
+ii. Sprint Review - if anything goes wrong within the Sprint time and also after the Sprint time is over. Sometimes review is also done just before the product version has to go live as a last check to verify all the deliverables are correct or not.
+iii. Sprint Retrospective - last ceremony of the spring. Team meets to discuss what went well and what needs improvement. Even teams suggest for better backlog grooming in this session. 
+iv. Daily Stand up meeting - 15 mins duration everyday generally early in the day before you start your work to discuss 3 major questions
+ > What did you do yesterday
+ > What are you planning to do today
+ > Do you have ay impediments or blockades which is preventing flow of work
+ Organized by the Scrum Master. Each team member has to participate and update the status quo of work
+
+Epic(s) - Huge pieces of work(or User Story) which needs to be broken down into smaller pieces. Epics are like big requirements which cannot be delivered into one sprint and should be divided into more smaller manageable pieces (User stories)
+
+User stories - smaller or manageable piece of requirements which covers specific functionalities. 
+
+Tasks - Elements of user stories. Typically, tasks are the work required to get the user story done
+
+Bugs - these are defects, errors or faults or deviations that are seen in a software application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
