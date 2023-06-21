@@ -1,0 +1,43 @@
+Agile but a proper project
+
+Realtime Project
+Epic - User Stories - Acceptance Criteria
+
+JIRA:-
+1. Jira as an Agile Management Tool
+2. Some cpmpetitors of JIRA
+3. Plug-ins Zephyr , Xray
+    Jira + Zephyr = Agile + TestManagement
+4. Configure JIRA from Atlassian website
+5. Create Projects
+6. Create certain roles in JIRA
+7. We will invite people and the admin can give them special access
+8. Backlog Option > Create Version > Create an Epic
+9. Create Sprint
+10. Different logins (Developer/Tester) will have their own tasks and sub tasks
+11. How to create Story points. Estimation factors
+12. Zephyr Plugin
+13. Test Cycle as a developer and as a Tester
+14. Development Team to demonstrate the completed user stories with the Product Owner for approval
+15. Scrum Master - burndown chart
+---------------------------------------------------------------------------------------
+
+
+Product Owner: -
+1. Has good knowledge about the business
+2. Who interacts with the customers
+3. Activites: - 
+   i.  Epics
+   ii. User Stories
+  iii. Maintaining the stories in the product backlog and prioritizing them
+   iv. Creation of Sprints
+    v. Sprint Planning Meeting
+       > List of prioritized user stories
+       > Estimation of the stories with the Development team
+          >> Story points following Fibonacci series
+              0 1 1 2 3 5 8 13 21 34.......
+   vi. Finalizing the stories that can be delivered by the Dev team in a particular Sprint
+  vii. Assinging the finalized stories to Sprint Backlog
+ viii. Starting the Sprint
+
+
