@@ -1,0 +1,17 @@
+Administrator
+sarthak.matrix@gmail.com
+
+Open your jira admin account
+Apps > Explore more apps
+Zephyr and select Zephyr Scale
+Add that plugin
+Wait and refresh your jira browser
+
+Product Owner
+seleniumpanda@gmail.com
+
+Developer
+seleniumpanda1@gmail.com
+
+Tester
+automationhubsarthak@gmail.com
